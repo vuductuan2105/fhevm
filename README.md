@@ -24,8 +24,6 @@
   <a href="https://slsa.dev"><img alt="SLSA 3" src="https://slsa.dev/images/gh-badge-level3.svg" /></a>
 </p>
 
-11
-
 
 > [!NOTE]
 > **Devnet EOL Notice**
